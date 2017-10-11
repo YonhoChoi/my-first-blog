@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "repl run",
+		"selected_items":
+		[
+			[
+				"repl run",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"virtualenvnew",
+				"Virtualenv: New"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 442.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"print('Hello')",
+			"dir",
+			"pwd",
+			"wpd",
+			"dir"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/카톡받은파일/KS-GLEM01-LSM-B01_messages_2.txt",
+		"/D/Terminal_Log/20170907164505_log.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/170925_tm5SGSC02_HDD#1_replacement/2D2L032/2D2L032/cont0.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/170925_tm5SGSC02_HDD#1_replacement/2D2L032/2D2L032/chassis.txt",
+		"/D/카톡받은파일/tm5SGSC02_20170925_hw_log.tar/tm5SGSC02_20170925_hw_log/tm5SGSC02_20170925_om_pdisk.txt",
+		"/D/카톡받은파일/tm5SGSC03_20170925_hw_log.tar/tm5SGSC03_20170925_hw_log/tm5SGSC03_20170925_om_pdisk.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/171002_ES-GLEM12-OMC-V01-RAID_Battery#1_replacement/support_data_ES-GLEM12-OMC-B01_171002/majorEventLog.txt",
+		"/C/Users/yongho/Downloads/rack-a.ans",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/171002_ES-GLEM12-OMC-V01-RAID_Battery#1_replacement/support_data_ES-GLEM12-OMC-M01_170929/majorEventLog.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/170925_tm5SGSC02_HDD#1_replacement/H710상태 예전 참고/tm5MMDONE03/tm5MMDONE03/cont0.txt",
+		"/D/카톡받은파일/obpMWSM05-RAID_getlog_log.txt",
+		"/D/Projects/OSP8/rack-a.ans",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/150526_Legacy_多摩_tm4SBSOMC-M5_RAID_SPS_A_SIDE_Faulted/tama_log_0528_cabling_unknown/20150528_tm4SBSOMC-M5_RAID_SPS_A_fail.log",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/150526_Legacy_多摩_tm4SBSOMC-M5_RAID_SPS_A_SIDE_Faulted/tama_log_0528_cabling_unknown/20150528_tm4SBSOMC-M5_RAID_SPS_A_fail_after.log",
+		"/D/Terminal_Log/New Session_2017-09-07_16-16-17.log",
+		"/D/Terminal_Log/New Session_2017-09-07_16-17-45.log",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/160118_多摩_tm4MWSM03_RAID_SPS_A_SIDE_Faulted/20160118_多摩_tm4MWSM03_RAID_SPS_A_SIDE_Faulted.log",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20150324_Legacy_BS-OMC#5_RAID_SPS_A_Fail/[150308] 20150324_Osaka_obpSBSOMC-M5_RAID_SPS_A_SIDE_log.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130529_Tama_DR_OMC#2_SPS_B_Fail/0710_After_Log/20130710_DR-OMC#2_SPS_B_getlog_Before.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130820_Tama_DR-OMC#4_RAID_SPS_A_B_Fail/20130902_DR-OMC_SPS.tar/20130902_DR-OMC#4_SPS_after_getlog.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20140210_Legacy_DR-OMC#3호기_SPS_B_Fail/교체작업/20140310_DR-OMC#3_SPS_B_Fail__getlog_after.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/150526_Legacy_多摩_tm4SBSOMC-M5_RAID_SPS_A_SIDE_Faulted/20150526_Tama_tm4SBSOMC-M5_RAID_SPS_A_SIDE_Faulted_log.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/160125_大阪_obpMWSM07_RAID_SPS_A_Side_Faulted/20160125_大阪_obpMWSM07_RAID_SPS_A_SIDE_Faulted_log.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20140910_Legacy_BS-OMC#5_RIAD_SPS_B_Fail/20140912_BS-OMC#5_SPS_B _fail_log.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/150113_Legacy_DR-OMC#6_RAID_SPS_A_Fail/tm4SBSOMC-M6_20150113_hw_log/tm4SBSOMC-M6_20150113_getcrus.txt",
+		"/D/Projects/OSP8/지차장님 한국에서 받아온 자료/170727_vmOpenstack/rack-a.ans",
+		"/D/Projects/OSP8/rhosp8-local.repo",
+		"/D/Projects/OSP8/rhel.repo",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130820_Tama_DR-OMC#4_RAID_SPS_A_B_Fail/20130902_DR-OMC_SPS.tar/20130902_DR-OMC#4_SPS_before.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130804_Tama_DR_OMC#4_SPS_A_Side_Fail/_DR_OMC#4_SPS_A_Side_Fail_getcrus.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130529_Tama_DR_OMC#2_SPS_B_Fail/0710_After_Log/20130710_DR-OMC#2_SPS_B_Before.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130529_Tama_DR_OMC#2_SPS_B_Fail/0710_After_Log/20130710_DR-OMC#2_SPS_B_getcrus_after.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130529_Tama_DR_OMC#2_SPS_B_Fail/0710_After_Log/20130710_DR-OMC#2_SPS_B_getcrus_Before.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130529_Tama_DR_OMC#2_SPS_B_Fail/0710_After_Log/20130710_DR-OMC#2_SPS_B_getlog_after.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130729_Osaka_BS-OMC#4_RAID_SPS_A_Fail/20130729_OMC4_SPS_A_Fail/20130729_OMC4_SPS_A_Fail_getcrus.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130729_Osaka_BS-OMC#4_RAID_SPS_A_Fail/20130730_after/20130730_OMC4_SPS_A_after.jpg",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130729_Osaka_BS-OMC#4_RAID_SPS_A_Fail/20130730_before/20130730_OMC4_SPS_A_before.jpg",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130729_Osaka_BS-OMC#4_RAID_SPS_A_Fail/20130730_after/20130730_OMC4_SPS_A_getcrus_After",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130729_Osaka_BS-OMC#4_RAID_SPS_A_Fail/20130730_before/20130730_OMC4_SPS_A_getcrus_Before",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130729_Osaka_BS-OMC#4_RAID_SPS_A_Fail/20130730_before/20130730_OMC4_SPS_A_getlog_Before",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20130820_Tama_DR-OMC#4_RAID_SPS_A_B_Fail/20130902_DR-OMC_SPS.tar/20130902_DR-OMC#4_SPS_after.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20140210_Legacy_DR-OMC#3호기_SPS_B_Fail/20140221_DR-OMC#3_SPS_B_getcrus.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20121119_Tama_DR_OMC#4_SPS-B_Fault/20121218_DR-OMC#4_SPS_B_交換＿log.tar/20121218-log-before/20121218＿DR-OMC4_getcrus_before.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20121119_Tama_DR_OMC#4_SPS-B_Fault/20121218_DR-OMC#4_SPS_B_交換＿log.tar/20121218＿DR-OMC4_getcrus_after.txt",
+		"/G/20170807_ntp_log/20170807_rhel6_ntp.txt",
+		"/D/namutech/6_Documents/3_BS-OMC_설정변경_작업/20160218_Shiba_G_conf_backup/tstSGMDTWO01_backup/etc/ntp.conf",
+		"/D/namutech/6_Documents/3_BS-OMC_설정변경_작업/20160218_Shiba_G_conf_backup/tstSGMDONE02_backup/etc/ntp.conf",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MS2_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MS2_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MS2_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MS2_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MD2_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MD1_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MD1_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MC_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MC_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MS1_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MD2_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MS1_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MD2_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MS1_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/NS-GLEM_MS1_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/OS-LEM_MC_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/OS-LEM_MC_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/OS-LEM_MS_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/OS-LEM_MS_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MC_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MC_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MD1_backup.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MD1_master.txt",
+		"/D/namutech/6_Documents/1_이슈/20160905_KDD_Kernel_Update/20170807_RHEL_Boothang_patch_result_NAMUtech/20170807_RHEL_Boothang_patch_result_NAMUtech/ES-GLEM_MD2_backup.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/101210_OMC1_CX_DISK_5_FAIL/After-1/After_spa-getlog.txt",
+		"/D/namutech/6_Documents/5_BS-OMC_신규세팅관련/20170308_EMS5_설치관련/20170308_점검로그/SEJ_log/2017-03-09_14-51-20_tm5SGMC03.log",
+		"/D/yongho/nanuminet업무/리눅스 관련/메일관련/sendmail test - コピー.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20131020_Raptor_Partition_logwatch/20131024_logwatch",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20131020_Raptor_Partition_logwatch/201310211702_cron_mod.log",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20131020_Raptor_Partition_logwatch/201310221641_cron_mod.log",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20131020_Raptor_Partition_logwatch/2013102240906_cron_mod_umd.log",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20131020_Raptor_Partition_logwatch/tmLSM01_logrotate.txt",
+		"/D/namutech/3_신사업관련/4_Accuver_보수관련/장애처리/170731_omctmsagt301p.20170731/omctmsagt301p.20170731/omctmsagt301p.20170731.log",
+		"/D/namutech/3_신사업관련/4_Accuver_보수관련/SB_NWC住所.txt",
+		"/H/2017-03-10-12-img_tm5SGMC03/Info-lshw.txt",
+		"/H/2017-03-10-12-img_tm5SGMC03/disk",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20131219_Raptor_lsm#1_cpu_alarm/20131219_sar_schedule_log.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/20131102_LSM1_cpu3_93%/20131102_LSM1_cpu3_93%確認.txt",
+		"/D/namutech/6_Documents/2_BS-OMC장애관련/01_mf_gm restart 현상_CPU overload 발생건/01_mf_gm restart 현상_CPU overload 발생건/out_OMC1",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170719/170719_TS-GLEM01-LSM-M01_ha_log/02-26-2016--TS-GLEM01-LSM-M01_log",
+		"/D/Projects/djangogirls/myvenv/Hello, World.py",
+		"/D/namutech/5_Daily/2016_0115/tmsMBE03_20160115_hw_log.tar/tmsMBE03_20160115_hw_log/tmsMBE03_20160115_smcli_allPhysicalDisks.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170719/170719_TS-GLEM01-LSM-M01_ha_log/09-20-2016--TS-GLEM01-LSM-M01_log",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170719/170719_ES-GLEM03-LSM-M02_ha_log/04-04-2017--ES-GLEM03-LSM-M02_log",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/20150324_Tama_reboot_udev_panic/2016년도문의를 위하여 SOS_REPORT취득/sosreport-ES-GLEM01-OMC-M01-20161207161813-cbb0/ES-GLEM01-OMC-M01-2016120716171481095039/etc/sysconfig/networking/devices/ifcfg-eth0",
+		"/D/yongho/nanuminet업무/리눅스 관련/메일관련/sendmail설정.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170719/170719_TS-GLEM01-LSM-M01_ha_log/10-27-2016--TS-GLEM01-LSM-M01_log",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170719/170719_TS-GLEM01-LSM-M01_ha_log/11-01-2016--TS-GLEM01-LSM-M01_log",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170719/170719_TS-GLEM01-LSM-M01_ha_log/02-16-2016--TS-GLEM01-LSM-M01_log",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170719/170719_ES-GLEM03-LSM-M02_history.txt",
+		"/D/VM/Red Hat Enterprise Linux 7 64/Red Hat Enterprise Linux 7 64 ビット.vmx",
+		"/D/카톡받은파일/DR_Sync/DR/2017_06_07.log",
+		"/D/카톡받은파일/hwalarm_2017_05_29/hwalarm_2017_05_29.log",
+		"/G/70-persistent-net.rules",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170529_DS-GLEM01-OMC-M05_HDD#0_replacement/DS-GLEM01-OMC-M05_20170529_hw_log.tar/DS-GLEM01-OMC-M05_20170529_hw_log/DS-GLEM01-OMC-M05_20170529_om_hdd_fail.txt",
+		"/C/Users/yongho/Downloads/Eight20170515144829sjis.csv",
+		"/C/Users/yongho/Downloads/Eight20170516103935utf8.csv",
+		"/D/namutech/3_신사업관련/4_Accuver_보수관련/장애처리/170428_khntmsagt206p_Server_Hang/khntmsagt206p_20170428/log/DSET-Report-for-[khntmsagt206p-SvcTag-7XBHGY1-]-on-04-28-2017-at-11.06-AM/logs/linux/var/log/messages",
+		"/C/Users/yongho/Downloads/Eight20170515120618utf8 (1).csv",
+		"/C/Users/yongho/Downloads/Eight20170515120618utf8.csv",
+		"/C/Users/yongho/Downloads/Eight20170515120618sjis.csv",
+		"/D/namutech/3_신사업관련/4_Accuver_보수관련/SB_NWC뢟룋.txt",
+		"/D/namutech/3_신사업관련/2_Cocktail관련/レンタルA申込みフォーム.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/chk_hw_status.sh",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170405_ES-GLEM11-OMC-M01_multiple_alarm/20170405_root_history.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170405_ES-GLEM11-OMC-M01_multiple_alarm/ES-GLEM11-OMC-M01_sa/sar03",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170405_ES-GLEM11-OMC-M01_multiple_alarm/04-03-2017-ES-GLEM11-OMC-M01_HA_log.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170405_ES-GLEM11-OMC-M01_multiple_alarm/ES-GLEM11-OMC-B01_sa/sar03",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170405_ES-GLEM11-OMC-M01_multiple_alarm/NS-GLEM01-OMC-M01_sa/sa03",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170405_ES-GLEM11-OMC-M01_multiple_alarm/NS-GLEM01-OMC-M01_sa/sar03",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170405_ES-GLEM11-OMC-M01_multiple_alarm/ES-GLEM11-OMC-M01_sa/sa03",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/hwalarm_2017_04_05.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/ES-GLEM11-OMC-M01_20170404_hw_log.tar/ES-GLEM11-OMC-M01_20170404_hw_log/ES-GLEM11-OMC-M01_20170404_om_chassis.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170404_ES-GLEM11-OMC-M01_message.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170404_ES-GLEM11-OMC-M01_CRO후 하드웨어알람발생/170404_ES-GLEM11-OMC-B01_message.txt",
+		"/D/namutech/6_Documents/8_LTE관련/장애관련/170328_HS-GLEM01-OMC-B01_HDD#1_replacement/HS-GLEM01-OMC-B01_20170328_om_hdd_fail.txt",
+		"/G/Server_Data_Collector/commands.txt",
+		"/G/Server_Data_Collector/logs/ES-GLEM06-LSM-B01_20170303_server_data.txt",
+		"/G/Server_Data_Collector/logs/tm5SGMS11_20170303_server_data.txt",
+		"/C/teraterm-4.86/connect/md2_b_connect .ttl",
+		"/C/teraterm-4.86/connect/ems5_con.bat"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Terminal_Log"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"djang",
+			"NETWORK",
+			"192.168",
+			"eth0",
+			"nova",
+			"한국",
+			"F90L032",
+			"한국에서",
+			"broadcom",
+			"igb",
+			"update",
+			"kernel",
+			"Battery capacity low",
+			"DF",
+			"df",
+			"nova",
+			"zone",
+			"physica",
+			"admin",
+			"project",
+			"admin",
+			"cinder",
+			"chargin",
+			"SPE SPS A State:",
+			"A State:",
+			"SPS B State",
+			"rechar",
+			"SPS A",
+			"sp",
+			"reboot",
+			"rebootpeer",
+			"reboot",
+			"cabling",
+			"reb",
+			"re",
+			"reboot",
+			"rebootpeer",
+			"boot",
+			"re",
+			"cabling",
+			"cinder",
+			"192.168.16.10",
+			"MAPPINGS=extern",
+			"yongho",
+			"ntp",
+			"Rebuild",
+			"re",
+			"yongho",
+			"yongho123",
+			"yongho",
+			"setting default address to 127.0.0.1",
+			"clientmqueue",
+			"clientmqueue.",
+			"clientmqueue",
+			"mail/",
+			"syslog",
+			"kill",
+			"yongho",
+			"워크숍",
+			"워크",
+			"yongho",
+			"리폼",
+			"리홈",
+			"리",
+			"yongho",
+			"django",
+			"yongho",
+			"docker",
+			"yongho",
+			"docker",
+			"yongho",
+			"Docker",
+			"장고",
+			"jango",
+			"yongho",
+			"fail",
+			"yongho",
+			"conta",
+			"컨테이너",
+			"yongho",
+			"호텔",
+			"호호텔",
+			"yongho",
+			"RECOUNT",
+			"RETRYSLEEP",
+			"DIAGSTS_RAID_CTR",
+			"chassis",
+			"MAXRECOUNT",
+			"count",
+			"PVMDCLI",
+			"smcli",
+			"chassis",
+			"omreport",
+			"SERVCLI",
+			"chassis",
+			"yongho",
+			"런티",
+			"yongho",
+			"키보드",
+			"yongho",
+			"라즈",
+			"라즈베",
+			"yongho",
+			"service_t",
+			"service_tag",
+			"tag",
+			"8HTWJ8",
+			"8HTWJ82",
+			"yongho",
+			"/etc/sysconfig/network",
+			"yongho",
+			"179",
+			"yongho",
+			"태그",
+			"9XLH9C2",
+			"태그",
+			"tag",
+			"yongho"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"192.168.59.100",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 129.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
